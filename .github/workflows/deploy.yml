@@ -72,5 +72,5 @@ jobs:
         uses: azure/webapps-deploy@v3
         id: deploy-to-webapp
         with:
-          app-name: 'MovieChatbot'
-          slot-name: 'Production'
+          app-name: 'MovieChatbot' # Make sure this matches the name of your Azure Web App exactly
+          slot-name: 'Production' # You can change this if you're using slots in Azure
