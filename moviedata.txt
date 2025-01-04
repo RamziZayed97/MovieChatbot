@@ -1,0 +1,753 @@
+Fast and Furious     2001     Action     A group of street racers gets entangled in high-stakes heists and police chases.
+Titanic              1997     Romance    A love story unfolds aboard the ill-fated RMS Titanic during its tragic voyage.
+Inception            2010     Action     A skilled thief enters dreams to steal secrets, blurring the lines of reality.
+The Notebook         2004     Romance    A touching love story of two individuals separated by social class and war.
+Mad Max: Fury Road   2015     Action     In a post-apocalyptic world, a drifter and a rebel join forces to fight tyranny.
+Pride and Prejudice  2005     Romance    A romantic drama about the complexities of love and societal expectations.
+The Dark Knight      2008     Action     Batman faces the Joker, a criminal mastermind causing chaos in Gotham City.
+La La Land           2016     Romance    A love story between an aspiring actress and a jazz musician in Los Angeles.
+Iron Man             2008     Action     A billionaire creates a high-tech suit to become a superhero and fight evil.
+The Fault in Our Stars 2014   Romance    Two teens with cancer embark on a journey of love and self-discovery.
+Captain America: Civil War 2016  Action  Heroes clash over government oversight, testing their bonds and loyalties.
+A Walk to Remember   2002     Romance    A high school rebel falls in love with a preacher's daughter in a small town.
+Gladiator            2000     Action     A betrayed Roman general fights for revenge and glory in the arena.
+Me Before You        2016     Romance    A wealthy young man paralyzed after an accident falls in love with his caregiver.
+John Wick            2014     Action     A retired assassin seeks revenge after the death of his beloved dog.
+Crazy Rich Asians    2018     Romance    A woman discovers her boyfriend is from one of Asia's wealthiest families.
+Deadpool             2016     Action     A witty antihero seeks revenge while breaking the fourth wall.
+To All the Boys I've Loved Before 2018 Romance A high schooler's secret love letters are accidentally sent out.
+Thor: Ragnarok       2017     Action     Thor teams up with unlikely allies to save Asgard from destruction.
+50 First Dates       2004     Romance    A man falls in love with a woman who has short-term memory loss.
+Spider-Man: Homecoming 2017  Action      Spider-Man balances high school life and being a superhero.
+Romeo and Juliet     1996     Romance    A modern adaptation of Shakespeare's classic tragic love story.
+Doctor Strange       2016     Action     A surgeon discovers the mystical arts after a life-changing accident.
+The Proposal         2009     Romance    A boss proposes to her assistant to avoid deportation to Canada.
+Ant-Man              2015     Action     A thief becomes a hero by shrinking to the size of an ant.
+Sweet November       2001     Romance    A woman teaches a workaholic the meaning of life and love.
+Guardians of the Galaxy 2014 Action      A group of misfits unites to save the universe from a powerful villain.
+Silver Linings Playbook 2012 Romance     Two troubled individuals find solace and love in each other's company.
+Justice League       2017     Action     Heroes team up to face a world-ending threat from an alien invader.
+The Time Traveler's Wife 2009 Romance    A man with a genetic disorder time-travels uncontrollably, complicating love.
+Avengers: Endgame     2019     Action     Earth's mightiest heroes unite for a final battle against Thanos.
+The Great Gatsby      2013     Romance    A wealthy man throws lavish parties to win back the love of his life.
+Black Panther         2018     Action     A young king defends his nation from powerful enemies.
+The Vow               2012     Romance    A husband helps his wife rediscover their love after memory loss.
+Wonder Woman          2017     Action     An Amazonian warrior princess joins the fight during World War I.
+Twilight              2008     Romance    A teenage girl falls in love with a vampire.
+The Bourne Identity   2002     Action     A man with amnesia discovers he is a highly trained assassin.
+The Lake House        2006     Romance    Two people communicate and fall in love across time through letters.
+Mission: Impossible – Fallout 2018 Action Ethan Hunt and his team face threats from a nuclear disaster.
+A Star Is Born        2018     Romance    A musician helps a young singer achieve fame as he battles addiction.
+Transformers          2007     Action     Autobots and Decepticons battle for Earth's future.
+The Holiday           2006     Romance    Two women swap homes for Christmas and find unexpected love.
+X-Men: Days of Future Past 2014 Action    Mutants fight to save their future by altering the past.
+Dear John             2010     Romance    A soldier and a college student fall in love through letters.
+The Avengers          2012     Action     Superheroes team up to stop an alien invasion.
+Love, Rosie           2014     Romance    Two childhood friends realize their love for each other over the years.
+Man of Steel          2013     Action     Superman faces his origins and battles an alien threat to Earth.
+Notting Hill          1999     Romance    A London bookseller falls for a famous American actress.
+Pacific Rim           2013     Action     Giant robots fight monstrous sea creatures to save the world.
+The Lucky One         2012     Romance    A soldier searches for a woman from a photo that saved his life.
+Django Unchained      2012     Action     A freed slave seeks to rescue his wife with the help of a bounty hunter.
+Moulin Rouge!         2001     Romance    A poet falls in love with a cabaret actress in Paris.
+300                   2006     Action     Spartan warriors stand against a massive Persian army.
+The Princess Bride    1987     Romance    A tale of love, adventure, and daring rescues in a fantasy kingdom.
+Skyfall               2012     Action     James Bond protects MI6 from a mysterious threat.
+Serendipity           2001     Romance    A couple leaves their future to fate after a chance meeting.
+Logan                 2017     Action     An aging Wolverine protects a young mutant in a dangerous future.
+Midnight Sun          2018     Romance    A girl with a rare condition falls for a boy under the stars.
+The Incredible Hulk   2008     Action     A scientist on the run struggles to control his inner monster.
+Letters to Juliet     2010     Romance    A woman finds love while responding to letters in Verona, Italy.
+Kick-Ass              2010     Action     A teenager becomes a vigilante superhero despite lacking powers.
+Safe Haven            2013     Romance    A mysterious woman finds love and healing in a small town.
+The Wolverine         2013     Action     Logan travels to Japan, confronting his past and his mortality.
+Leap Year             2010     Romance    A woman proposes to her boyfriend in Ireland but finds unexpected love.
+The Hunger Games      2012     Action     A young girl fights to survive in a deadly televised competition.
+Ever After            1998     Romance    A retelling of Cinderella with a strong-willed heroine.
+Star Wars: The Force Awakens 2015 Action  Heroes rise to face a new dark side threat in the galaxy.
+The Best of Me        2014     Romance    Former high school sweethearts reunite after many years apart.
+The Expendables       2010     Action     Mercenaries take on a dangerous mission to overthrow a dictator.
+Bride Wars            2009     Romance    Two best friends become rivals when their weddings are scheduled on the same day.
+Fast Five             2011     Action     Dom and his crew take on a heist in Rio while evading the law.
+The Age of Adaline    2015     Romance    A woman who never ages finds love and acceptance.
+Iron Man 2            2010     Action     Tony Stark faces new enemies and personal struggles as Iron Man.
+Romeo + Juliet        1996     Romance    A modern twist on Shakespeare's timeless love story.
+Kill Bill: Vol. 1     2003     Action     A bride seeks vengeance against her former assassin colleagues.
+Something Borrowed    2011     Romance    A love triangle tests the bonds of friendship and loyalty.
+The Matrix            1999     Action     A computer hacker discovers the truth about reality and his destiny.
+PS I Love You         2007     Romance    A widow receives letters from her late husband, guiding her to move on.
+Mad Max: Fury Road      2015     Action     Survivors fight for freedom in a post-apocalyptic wasteland.
+The Notebook            2004     Romance    A love story spanning decades between two star-crossed lovers.
+John Wick               2014     Action     A retired assassin seeks vengeance after a personal loss.
+Pride & Prejudice       2005     Romance    A timeless tale of love and misunderstandings in Regency-era England.
+Gladiator               2000     Action     A Roman general seeks revenge for the murder of his family.
+Titanic                 1997     Romance    A love story unfolds aboard the ill-fated ship.
+The Dark Knight         2008     Action     Batman faces his greatest challenge in the form of the Joker.
+The Fault in Our Stars  2014     Romance    Two teenagers with cancer fall deeply in love.
+Inception               2010     Action     A team of thieves infiltrates dreams to plant an idea.
+Me Before You           2016     Romance    A caregiver helps a paralyzed man rediscover joy in life.
+The Equalizer           2014     Action     A former spy uses his skills to help those in need.
+A Walk to Remember      2002     Romance    A love story about a rebellious teen and a minister’s daughter.
+Thor: Ragnarok          2017     Action     Thor faces his destiny in an epic battle to save Asgard.
+To All the Boys I’ve Loved Before 2018 Romance A teenager navigates her love life when secret letters are exposed.
+The Fast and the Furious 2001     Action     Street racers are caught in a world of heists and betrayal.
+The Proposal            2009     Romance    A workaholic woman fakes an engagement to avoid deportation.
+Deadpool                2016     Action     A mercenary gains superhuman abilities and seeks revenge.
+The Time Traveler’s Wife 2009     Romance    A man with a genetic disorder involuntarily travels through time.
+Spider-Man: Homecoming  2017     Action     A young Peter Parker navigates high school and heroism.
+The Last Song           2010     Romance    A rebellious teenager reconnects with her father and falls in love.
+Rogue One: A Star Wars Story 2016 Action   Rebels unite to steal plans for the Death Star.
+Becoming Jane           2007     Romance    A fictionalized account of Jane Austen's early years.
+Justice League          2017     Action     Heroes unite to face a new global threat.
+The Lucky One           2012     Romance    A soldier searches for the woman in a photo he believes brought him luck.
+Captain America: The Winter Soldier 2014 Action A hero uncovers a conspiracy within S.H.I.E.L.D.
+Dear John               2010     Romance    A soldier and a college student fall in love through letters.
+Ant-Man and the Wasp    2018     Action     A thief-turned-hero embarks on a rescue mission in the quantum realm.
+The Longest Ride        2015     Romance    Two love stories unfold across generations.
+Doctor Strange          2016     Action     A surgeon learns the mystic arts to protect the multiverse.
+The Bridges of Madison County 1995 Romance A housewife shares a brief but intense romance with a photographer.
+Venom                  2018     Action     A journalist gains alien powers while fighting corporate greed.
+Cinderella             2015     Romance    A kind girl discovers her destiny with the help of magic.
+Warcraft               2016     Action     Humans and orcs battle for survival in a mystical world.
+The Best of Me         2014     Romance    High school sweethearts reunite after decades apart.
+Guardians of the Galaxy Vol. 2 2017 Action A band of misfits embarks on a journey of self-discovery and heroism.
+The Lake House         2006     Romance    Two lovers communicate across time through letters.
+Kingsman: The Secret Service 2014 Action  A secret organization recruits an unrefined street kid.
+The Age of Adaline     2015     Romance    A woman who never ages struggles with love and loss.
+Interstellar            2014     Action     A team of astronauts travels through a wormhole to save humanity.
+La La Land              2016     Romance    A musician and an actress fall in love while pursuing their dreams.
+Dunkirk                 2017     Action     A WWII epic about the evacuation of soldiers trapped on the beach.
+The Great Gatsby        2013     Romance    A tragic love story set in the roaring twenties.
+Black Panther           2018     Action     A king returns to Wakanda to defend his nation and its legacy.
+Wonder Woman            2017     Action     An Amazonian warrior princess steps into the world to stop war.
+The Notebook            2004     Romance    A love story that spans decades and is read from an old journal.
+Mad Max: Fury Road      2015     Action     A woman rebels against a tyrant in a post-apocalyptic wasteland.
+Titanic                 1997     Romance    A young couple falls in love aboard a doomed ocean liner.
+John Wick               2014     Action     A retired hitman seeks vengeance for the killing of his dog.
+The Shape of Water      2017     Romance    A mute woman forms a bond with a mysterious aquatic creature.
+Avengers: Endgame       2019     Action     Heroes unite to reverse the destruction caused by Thanos.
+The Fault in Our Stars  2014     Romance    Two teenagers fall in love while battling serious illnesses.
+Gladiator               2000     Action     A betrayed general fights for vengeance in the Roman Colosseum.
+Pride and Prejudice     2005     Romance    A classic love story of Elizabeth Bennet and Mr. Darcy.
+The Dark Knight         2008     Action     Batman battles the Joker in a gritty fight for Gotham’s soul.
+The Proposal            2009     Romance    A boss convinces her assistant to marry her to avoid deportation.
+Jurassic World          2015     Action     Dinosaurs run amok in a newly reopened theme park.
+Slumdog Millionaire     2008     Romance    A young man reflects on his life while competing on a game show.
+Skyfall                 2012     Action     James Bond faces a cyber-terrorist with ties to his past.
+The Vow                 2012     Romance    A husband tries to win back his wife who lost her memory.
+Inception               2010     Action     A thief enters dreams to plant an idea in a target's mind.
+Romeo + Juliet          1996     Romance    A modern retelling of Shakespeare's classic love story.
+Transformers            2007     Action     Robots disguise themselves to battle for Earth’s survival.
+A Walk to Remember      2002     Romance    A rebellious teenager falls in love with a reserved girl.
+Mission: Impossible     1996     Action     Ethan Hunt is framed and must uncover a mole in the IMF.
+Dear John               2010     Romance    A soldier and a student fall in love but face long separations.
+Spider-Man: No Way Home 2021     Action     Peter Parker seeks help to erase the world’s memory of his identity.
+Crazy, Stupid, Love     2011     Romance    A man learns to navigate the dating world after his divorce.
+Deadpool                2016     Action     A mercenary becomes a super anti-hero with a dark sense of humor.
+The Holiday             2006     Romance    Two women swap homes and discover new love during Christmas.
+The Bourne Identity     2002     Action     A man with amnesia discovers he’s a highly skilled assassin.
+Me Before You           2016     Romance    A caregiver falls in love with a paralyzed man she works for.
+The Avengers            2012     Action     Earth's mightiest heroes assemble to save the world.
+Silver Linings Playbook 2012     Romance    Two troubled souls find love while rebuilding their lives.
+300                     2006     Action     A legendary Spartan king leads 300 warriors against Persia.
+Notting Hill            1999     Romance    A bookstore owner falls in love with a famous movie star.
+Thor: Ragnarok          2017     Action     Thor teams up with Hulk to stop the destruction of Asgard.
+To All the Boys         2018     Romance    A teenage girl’s love letters are accidentally sent to her crushes.
+The Matrix              1999     Action     A hacker discovers he’s living in a simulated reality.
+Moulin Rouge!           2001     Romance    A poet falls in love with a beautiful courtesan in Paris.
+Doctor Strange          2016     Action     A surgeon turns to mystical arts to heal and become a hero.
+The Time Traveler's Wife2009     Romance    A man with a genetic disorder time-travels unpredictably.
+Captain America: Civil W2016     Action     Heroes clash over the need for government oversight.
+Eternal Sunshine        2004     Romance    A man undergoes a procedure to erase memories of his ex.
+Iron Man                2008     Action     Tony Stark builds a suit to escape captivity and becomes a hero.
+Safe Haven              2013     Romance    A woman starts over in a small town, hiding from her dark past.
+The Hunger Games        2012     Action     A girl must survive a deadly televised competition.
+Beauty and the Beast    2017     Romance    A woman falls in love with a cursed prince in a magical castle.
+Shazam!                 2019     Action     A teenager gains powers and learns to be a hero.
+Twilight                2008     Romance    A high school girl falls in love with a vampire.
+Wonder                  2017     Action     A boy with facial differences attends school for the first time.
+The Holiday            2010     Romance    A rebellious girl reconnects with her estranged father.
+Godzilla vs. Kong       2021     Action     Titans clash in a battle for supremacy.
+Avatar                   2009     Action     A paraplegic Marine on an alien planet becomes one of the natives to protect their land.
+The Pursuit of Happyness 2006     Drama      A struggling salesman becomes homeless while raising his young son.
+The Social Network       2010     Drama      The story of Facebook's creation and the legal battles surrounding it.
+Shutter Island           2010     Thriller   A U.S. Marshal investigates the disappearance of a patient from a mental hospital.
+The Wolf of Wall Street  2013     Biography  A stockbroker rises to wealth through corruption and fraud.
+The Grand Budapest Hotel 2014     Comedy     The adventures of a hotel concierge and his loyal lobby boy.
+The Imitation Game       2014     Biography  Alan Turing cracks the Nazi Enigma code during WWII.
+Slumdog Millionaire      2008     Drama      A young man reflects on his life while competing on a game show.
+The King's Speech        2010     Drama      King George VI overcomes a stammer with the help of a speech therapist.
+Interstellar             2014     Sci-Fi     A team travels through a wormhole to ensure humanity's survival.
+Gravity                  2013     Sci-Fi     Astronauts struggle to survive after their shuttle is destroyed in orbit.
+Birdman                  2014     Drama      A washed-up actor tries to revive his career by directing a Broadway play.
+12 Years a Slave         2013     Drama      A free man is kidnapped and sold into slavery in the 1840s.
+Life of Pi               2012     Adventure  A young man survives a shipwreck and shares a lifeboat with a tiger.
+Django Unchained         2012     Western    A freed slave teams up with a bounty hunter to rescue his wife.
+The Revenant             2015     Adventure  A frontiersman fights for survival after being mauled by a bear.
+The Martian              2015     Sci-Fi     An astronaut is stranded on Mars and must survive until rescue.
+Whiplash                 2014     Drama      A drummer strives for greatness under an abusive music instructor.
+La La Land               2016     Musical    A jazz musician and actress navigate their dreams and love in L.A.
+The Big Short            2015     Drama      A look at the 2008 financial crisis and those who bet against the market.
+Ford v Ferrari           2019     Biography  Car designers challenge Ferrari at the 24 Hours of Le Mans.
+Parasite                 2019     Thriller   A poor family infiltrates a wealthy household with unexpected consequences.
+Jojo Rabbit              2019     Comedy     A young boy in Nazi Germany discovers his mother is hiding a Jewish girl.
+Once Upon a Time in Hollywood 2019 Comedy   A faded actor and his stunt double navigate Hollywood's golden age.
+The Irishman             2019     Crime      A mob hitman reflects on his life and loyalty to his boss.
+1917                    2019     War        Two soldiers race against time to deliver a crucial message during WWI.
+Joker                   2019     Crime      A mentally ill comedian descends into madness and becomes a criminal icon.
+Soul                    2020     Animation  A musician explores the afterlife to rediscover his passion for music.
+Inside Out              2015     Animation  The emotions inside a young girl's mind navigate a big life change.
+Coco                    2017     Animation  A boy explores the Land of the Dead to uncover his family's past.
+Zootopia                2016     Animation  A bunny cop and a fox con artist solve a missing mammals case.
+Frozen                  2013     Animation  A princess embarks on a journey to find her estranged sister with icy powers.
+Moana                   2016     Animation  A young girl sets sail to save her island with the help of a demigod.
+Tangled                 2010     Animation  Rapunzel escapes her tower with the help of a charming thief.
+Brave                   2012     Animation  A Scottish princess defies tradition to carve her own destiny.
+Toy Story 3             2010     Animation  Woody and the gang face danger as Andy prepares for college.
+Up                      2009     Animation  A widower and a young boy set off on a house-floating adventure.
+Finding Dory            2016     Animation  A forgetful fish searches for her parents in the vast ocean.
+The Incredibles         2004     Animation  A family of superheroes must save the world while hiding their identities.
+Ratatouille             2007     Animation  A rat dreams of becoming a chef in a Parisian restaurant.
+Wall-E                  2008     Animation  A lonely robot on a trash-filled Earth discovers love and purpose.
+The Lego Movie          2014     Animation  An ordinary LEGO figure discovers he's the key to saving his world.
+Spider-Man: Into the Spider-Verse 2018 Animation A teen becomes Spider-Man and joins forces with other dimensions' heroes.
+How to Train Your Dragon 2010    Animation  A Viking befriends a dragon, challenging his tribe's beliefs.
+Shrek                   2001     Animation  An ogre and a donkey rescue a princess with a secret.
+Madagascar              2005     Animation  Zoo animals escape to the wild and learn to survive.
+Kung Fu Panda           2008     Animation  A clumsy panda discovers his destiny as a kung fu hero.
+Despicable Me           2010     Animation  A villain discovers his heart through three orphaned girls.
+The Secret Life of Pets 2016     Animation  Pets embark on adventures while their owners are away.
+Sing                    2016     Animation  Animals compete in a singing contest to save a theater.
+Monsters, Inc.          2001     Animation  Monsters who scare children find their world turned upside down.
+Big Hero 6              2014     Animation  A boy and his robot battle to uncover a dangerous plot.
+The Croods              2013     Animation  A prehistoric family explores a world beyond their cave.
+Ice Age                 2002     Animation  Animals team up to return a human baby to its tribe.
+Wreck-It Ralph          2012     Animation  A video game villain searches for purpose beyond destruction.
+Cloudy with a Chance of Meatballs 2009 Animation A scientist creates a machine that makes food rain from the sky.
+The Truman Show         1998     Drama      A man discovers his entire life is a reality TV show.
+Cast Away               2000     Adventure  A man is stranded on a deserted island after a plane crash.
+Good Will Hunting       1997     Drama      A janitor with extraordinary math skills discovers his potential.
+Forrest Gump            1994     Drama      A man with a kind heart witnesses key historical moments in his life.
+The Green Mile          1999     Drama      A death row officer witnesses supernatural events surrounding a prisoner.
+A Beautiful Mind        2001     Biography  The story of John Nash, a mathematical genius battling schizophrenia.
+The Pianist             2002     Biography  A Jewish pianist struggles to survive during World War II.
+Schindler's List        1993     Biography  A German industrialist saves Jews during the Holocaust.
+American Beauty         1999     Drama      A suburban father experiences a midlife crisis.
+The Silence of the Lambs 1991    Thriller   An FBI agent seeks help from a cannibalistic killer to catch a murderer.
+Rain Man                1988     Drama      A selfish man bonds with his autistic savant brother.
+Slumdog Millionaire     2008     Drama      A boy from the slums competes on a game show and reflects on his life.
+Life Is Beautiful       1997     Comedy     A man uses humor to protect his son from the horrors of a concentration camp.
+The Shawshank Redemption 1994    Drama      Two imprisoned men bond and find hope in acts of decency.
+The Pursuit of Happyness 2006    Drama      A single father overcomes homelessness to achieve success.
+The Departed            2006     Crime      An undercover cop and a mole in the police attempt to identify each other.
+The Prestige            2006     Thriller   Two magicians engage in a rivalry to create the ultimate illusion.
+Se7en                   1995     Thriller   Two detectives hunt a killer who bases his murders on the seven deadly sins.
+Requiem for a Dream     2000     Drama      The lives of four individuals spiral out of control due to addiction.
+Black Swan              2010     Drama      A ballerina struggles with perfection and descends into madness.
+The Great Gatsby        2013     Drama      A mysterious millionaire obsesses over his lost love.
+Gone Girl               2014     Thriller   A husband becomes the prime suspect in his wife's disappearance.
+Her                     2013     Romance    A man falls in love with an AI operating system.
+The Artist              2011     Drama      A silent film star struggles with the arrival of talkies.
+The Theory of Everything 2014   Biography  The story of Stephen Hawking and his groundbreaking work on black holes.
+Spotlight               2015     Biography  Journalists uncover a massive child abuse scandal within the Catholic Church.
+Into the Wild           2007     Adventure  A man abandons society to live in the Alaskan wilderness.
+Dallas Buyers Club      2013     Biography  A man with AIDS creates a club to distribute unapproved medicine.
+Room                    2015     Drama      A mother and her son escape from captivity and adjust to the outside world.
+12 Angry Men            1957     Drama      A jury debates a murder case, testing their own biases and values.
+Moonlight               2016     Drama      A young black man grapples with his identity and sexuality.
+The Farewell            2019     Comedy     A family keeps a grandmother's terminal diagnosis a secret.
+Amélie                  2001     Romance    A whimsical woman sets out to improve the lives of those around her.
+La Haine                1995     Drama      The lives of three friends in a Parisian suburb after a riot.
+City of God             2002     Crime      Two boys grow up in a violent neighborhood in Rio de Janeiro.
+Trainspotting           1996     Drama      A group of heroin addicts navigate life in Edinburgh.
+No Country for Old Men  2007     Thriller   A hunter finds himself pursued by a relentless killer after finding drug money.
+The Hurt Locker         2008     War        A bomb disposal team faces danger and camaraderie in Iraq.
+Million Dollar Baby     2004     Drama      A female boxer fights against the odds to achieve her dreams.
+The Blind Side          2009     Biography  The story of an African-American teenager who becomes an NFL star.
+The Help                2011     Drama      Black maids in 1960s Mississippi share their stories with a young journalist.
+127 Hours              2010     Biography   A mountaineer becomes trapped under a boulder and fights to survive.
+Julie & Julia          2009     Biography   A woman cooks her way through Julia Child's recipes and finds inspiration.
+The Terminal           2004     Comedy     A man is stuck in an airport terminal after his country collapses.
+Hacksaw Ridge          2016     Biography  A WWII medic saves lives without carrying a weapon.
+The Last King of Scotland 2006 Biography   A doctor becomes involved with a dangerous dictator in Uganda.
+Eat Pray Love          2010     Romance    A woman travels the world in search of self-discovery.
+The Kite Runner        2007     Drama      A man's past in Afghanistan haunts him as he seeks redemption.
+Victoria & Abdul       2017     Biography  The friendship between Queen Victoria and an Indian servant.
+The Boy in the Striped Pajamas 2008 Drama  The friendship between a German boy and a Jewish prisoner.
+Wild                   2014     Biography  A woman hikes the Pacific Crest Trail to find herself.
+The Danish Girl        2015     Biography  A transgender pioneer navigates love and identity in 1920s Europe.
+Marriage Story         2019     Drama      A couple navigates a painful divorce with compassion and conflict.
+Spotlight              2015     Drama      A team of reporters uncovers widespread abuse in the Catholic Church.
+Hidden Figures         2016     Biography  Black women mathematicians play a vital role in NASA’s space race.
+The Terminal             2004     Comedy     A man is stuck at an airport due to his country's political collapse.
+Cast Away                2000     Adventure  A plane crash leaves a man stranded on a deserted island.
+Finding Forrester        2000     Drama      A reclusive writer mentors a young, talented basketball player.
+Gran Torino              2008     Drama      A grumpy Korean War veteran forms an unlikely bond with his neighbor.
+The Pursuit of Happyness 2006     Drama      A struggling salesman works his way out of homelessness with his son.
+The Bucket List          2007     Comedy     Two terminally ill men embark on a journey to complete their bucket list.
+Big Fish                 2003     Drama      A son learns about his dying father's larger-than-life stories.
+The Secret Life of Walter Mitty 2013 Adventure A timid man embarks on a global adventure to find a missing photograph.
+The Soloist              2009     Biography  A journalist befriends a homeless, musically gifted man.
+Pay It Forward           2000     Drama      A boy creates a movement of kindness by helping strangers in need.
+Remember the Titans      2000     Biography  A football team overcomes racial tensions to achieve greatness.
+Freedom Writers          2007     Drama      A teacher inspires her at-risk students through writing.
+We Bought a Zoo          2011     Comedy     A family restores a rundown zoo while finding new purpose in life.
+The Way Way Back         2013     Comedy     A shy teenager gains confidence during a summer vacation.
+The Peanut Butter Falcon 2019     Adventure  A man with Down syndrome embarks on a journey to become a wrestler.
+Chef                     2014     Comedy     A chef rediscovers his passion by starting a food truck.
+The Hundred-Foot Journey 2014     Drama      Two culinary worlds collide in a French village.
+Julie & Julia            2009     Biography  A woman explores Julia Child's recipes and her own life's purpose.
+The Help                 2011     Drama      African-American maids share their stories with a young journalist.
+The Intouchables         2011     Biography  A paralyzed man forms a bond with his lively caregiver.
+Lion                     2016     Biography  A man searches for his birth family using Google Earth.
+A Monster Calls          2016     Fantasy    A boy befriends a tree monster to cope with his mother's illness.
+Brooklyn                 2015     Romance    An Irish immigrant navigates love and homesickness in 1950s New York.
+Wild                     2014     Biography  A woman hikes the Pacific Crest Trail to rediscover herself.
+The Boy Who Harnessed the Wind 2019 Biography A boy saves his village by building a windmill.
+The Spectacular Now      2013     Drama      A high school senior learns about love and responsibility.
+Blue Jasmine             2013     Drama      A New York socialite struggles to adjust after losing her wealth.
+The Florida Project      2017     Drama      A young girl lives in a budget motel near Disney World with her mother.
+The Glass Castle         2017     Biography  A journalist reflects on her unconventional, troubled upbringing.
+Still Alice              2014     Drama      A linguistics professor faces early-onset Alzheimer's disease.
+On Golden Pond           1981     Drama      An elderly couple reconnects with their estranged daughter.
+Falling Down             1993     Thriller   A man snaps under life's pressures and causes chaos in Los Angeles.
+Boyhood                  2014     Drama      A boy's life unfolds over 12 years in a groundbreaking film project.
+Moonrise Kingdom         2012     Comedy     Two kids run away from home, sparking a small-town search.
+Lost in Translation      2003     Drama      Two lonely souls connect in a Tokyo hotel.
+The Station Agent        2003     Comedy     A reclusive dwarf bonds with quirky friends in a small town.
+Mississippi Burning      1988     Drama      FBI agents investigate civil rights murders in 1960s Mississippi.
+Dead Poets Society       1989     Drama      A teacher inspires students to embrace poetry and free thinking.
+A River Runs Through It  1992     Drama      Two brothers bond through fly fishing in rural Montana.
+My Left Foot             1989     Biography  The story of Christy Brown, a man with cerebral palsy who became an artist.
+The Last Emperor         1987     Biography  The life of China's last emperor from his coronation to captivity.
+Room with a View         1985     Romance    A young woman faces dilemmas in love during a trip to Italy.
+The Piano                1993     Drama      A mute woman forms an unlikely bond through her love of music.
+The Crying Game          1992     Thriller   A tale of love, betrayal, and identity during the Troubles in Ireland.
+The English Patient      1996     Drama      A nurse cares for a burn victim with a mysterious past.
+Out of Africa            1985     Biography  A Danish woman's life and love story in Kenya.
+Amadeus                  1984     Biography  The life of Wolfgang Amadeus Mozart as seen through the eyes of a rival.
+Beaches                 1988      Drama      Lifelong friends navigate love, career, and heartbreak.
+The Joy Luck Club       1993      Drama      Four Chinese-American women reflect on their relationships with their mothers.
+The Color Purple        1985      Drama      A young black woman endures and overcomes hardship in the American South.
+To Sir, with Love       1967      Drama      A teacher inspires unruly students in an inner-city London school.
+The Man Who Knew Infinity 2015   Biography   The story of Indian mathematician Srinivasa Ramanujan.
+Gorillas in the Mist    1988      Biography   The life and work of primatologist Dian Fossey in Rwanda.
+Snow Falling on Cedars  1999      Drama      A Japanese-American man is accused of murder in post-WWII America.
+Under the Tuscan Sun    2003      Romance    A woman rebuilds her life by restoring a villa in Tuscany.
+A Walk in the Woods     2015      Comedy     Two old friends hike the Appalachian Trail.
+The Impossible          2012      Drama      A family's struggle for survival during the 2004 tsunami.
+The Constant Gardener   2005      Thriller   A man investigates his wife's murder in Kenya.
+Malcolm X               1992      Biography  The life and legacy of the activist and civil rights leader.
+The Fisher King         1991     Drama      A former radio DJ finds redemption through his friendship with a homeless man.
+Big                     1988     Comedy     A boy wishes to be "big" and wakes up as an adult in the real world.
+The Bridges of Madison County 1995 Romance  A brief yet life-changing affair between a photographer and a housewife.
+The Man in the Iron Mask 1998    Adventure  A young king's twin brother, imprisoned for years, plots his revenge.
+Awakenings              1990     Drama      A doctor uses a drug to awaken catatonic patients temporarily.
+Hotel Rwanda            2004     Biography  A hotel manager saves lives during the Rwandan genocide.
+Catch Me If You Can     2002     Biography  A charming con artist eludes the FBI while committing massive fraud.
+Erin Brockovich         2000     Biography  A single mother exposes a water contamination scandal.
+October Sky             1999     Biography  A boy's passion for rocketry leads him to defy expectations.
+Billy Elliot            2000     Drama      A boy from a mining town pursues ballet against all odds.
+Atonement               2007     Romance    A lie tears a young couple apart during World War II.
+Crash                   2004     Drama      The lives of strangers intersect in Los Angeles, exploring racial tensions.
+The Lovely Bones        2009     Drama      A murdered girl watches her family from the afterlife as they seek justice.
+Into the Wild           2007     Adventure  A man abandons his possessions to live in the Alaskan wilderness.
+The Secret Garden       1993     Drama      An orphaned girl discovers a hidden, magical garden.
+Gandhi                  1982     Biography  The life and legacy of Mahatma Gandhi, a leader of non-violent resistance.
+Sophie's Choice         1982     Drama      A woman reflects on the devastating choices she made during WWII.
+The Untouchables        1987     Crime      Federal agents battle organized crime during Prohibition in Chicago.
+The Color of Money      1986     Drama      A pool hustler mentors a young prodigy in the competitive billiards scene.
+Rain Man                1988     Drama      A selfish man bonds with his autistic savant brother during a road trip.
+A Few Good Men          1992     Drama      A military lawyer defends Marines accused of murder in a court-martial.
+Philadelphia            1993     Drama      A lawyer with AIDS fights wrongful termination in a landmark case.
+Argo                    2012     Thriller   A CIA agent rescues hostages by creating a fake movie production.
+The Post                2017     Drama      Journalists risk their careers to publish classified documents.
+Mud                     2012     Drama      Two boys help a fugitive reunite with his lost love.
+The Florida Project     2017     Drama      A young girl explores life while living in a budget motel.
+Three Billboards Outside Ebbing, Missouri 2017 Drama A mother challenges local authorities over her daughter's unsolved murder.
+The Zookeeper's Wife    2017     Biography  A couple hides Jews in their zoo during Nazi occupation.
+Loving                  2016     Biography  The story of an interracial couple's fight for marriage equality.
+Steve Jobs              2015     Biography  The life of Apple's visionary co-founder, Steve Jobs.
+The Big Sick            2017     Comedy     A couple navigates cultural differences and illness in their relationship.
+Eighth Grade            2018     Comedy     A shy eighth-grader navigates the challenges of adolescence.
+Captain Fantastic       2016     Drama      A father raises his children off the grid but faces society's expectations.
+Room                    2015     Drama      A young woman and her son escape from captivity and rebuild their lives.
+Gifted                  2017     Drama      A single man raises his gifted niece while battling custody issues.
+The Farewell            2019     Drama      A family keeps a terminal diagnosis secret from their matriarch.
+The Way Back            2020     Drama      A former basketball star struggles with addiction and redemption.
+The Founder             2016     Biography  The story of Ray Kroc and the creation of the McDonald's empire.
+Joy                     2015     Biography  A woman's journey to build a business empire with her invention.
+Brooklyn                2015     Romance    An Irish immigrant finds love and belonging in 1950s New York.
+Burnt                  2015     Drama      A chef attempts to rebuild his career after personal struggles.
+Lion                   2016     Biography   A man searches for his family years after being lost in India as a child.
+Unbroken               2014     Biography   A WWII soldier survives a plane crash, 47 days at sea, and a POW camp.
+The Shack              2017     Drama       A grieving man finds solace and guidance in a mysterious cabin.
+The Book Thief         2013     Drama       A young girl survives Nazi Germany through the power of books.
+Lars and the Real Girl 2007     Comedy      A socially awkward man finds love in an unexpected way.
+The Danish Girl        2015     Biography   The story of a transgender pioneer and her struggles for identity.
+Hidden Figures         2016     Biography   Black women mathematicians play a critical role in NASA’s space race.
+The Best Exotic Marigold Hotel 2011 Comedy  Retirees find new beginnings in an Indian hotel.
+The Queen              2006     Biography   The British royal family navigates the aftermath of Princess Diana's death.
+The Secret Life of Bees 2008     Drama      A young girl and her caregiver seek refuge on a beekeeping farm.
+Dead Poets Society      1989     Drama      An English teacher inspires his students to seize the day.
+A Beautiful Day in the Neighborhood 2019 Biography A journalist forms a bond with Fred Rogers while writing a profile.
+Loving Vincent          2017     Drama      The life and mysterious death of Vincent van Gogh told through paintings.
+Stand by Me             1986     Drama      Four boys embark on a journey to find a missing boy's body.
+Bridge of Spies         2015     Thriller   A lawyer negotiates a prisoner exchange during the Cold War.
+Manchester by the Sea   2016     Drama      A man returns to his hometown to care for his nephew after a tragedy.
+The Peanut Butter Falcon 2019    Adventure  A young man with Down syndrome follows his dream of becoming a wrestler.
+Green Book              2018     Biography  An unlikely friendship forms between a musician and his driver in the 1960s.
+The Last Samurai        2003     Action     An American officer learns the way of the samurai during a conflict in Japan.
+The Village             2004     Thriller   A community isolated from the outside world is haunted by mysterious creatures.
+Snowpiercer             2013     Sci-Fi     Survivors of a frozen Earth live aboard a perpetually moving train.
+The Road                2009     Drama      A father and son journey through a post-apocalyptic landscape.
+The Lovely Bones        2009     Drama      A girl watches over her family from the afterlife after being murdered.
+The Curious Case of Benjamin Button 2008 Drama A man ages backward, experiencing love and loss in unique ways.
+Revolutionary Road      2008     Drama      A couple struggles to break free from societal expectations.
+Frost/Nixon             2008     Biography  The story behind the famous interviews between Nixon and Frost.
+Julie & Julia           2009     Biography  A woman finds inspiration cooking Julia Child's recipes.
+Wit                     2001     Drama      A professor confronts her terminal illness with reflection and courage.
+The Painted Veil        2006     Romance    A couple's relationship evolves while battling a cholera epidemic.
+Milk                    2008     Biography  The story of Harvey Milk, a gay rights activist and politician.
+The Soloist             2009     Biography  A journalist befriends a homeless musician with extraordinary talent.
+We Bought a Zoo         2011     Comedy     A man renovates a dilapidated zoo with his family.
+An Education            2009     Drama      A teenage girl falls for an older man and questions her life's direction.
+The Descendants         2011     Drama      A father reconnects with his daughters after a family tragedy.
+Labor Day               2013     Drama      A mother and son shelter an escaped convict over a long weekend.
+Flight                  2012     Drama      A pilot grapples with addiction after heroically landing a damaged plane.
+The Impossible          2012     Drama      A family struggles to reunite after surviving a tsunami.
+Beasts of the Southern Wild 2012 Drama     A young girl confronts personal loss in a remote Louisiana bayou community.
+Concussion              2015     Biography  A doctor exposes the dangers of head injuries in professional football.
+The Hundred-Foot Journey 2014    Comedy     Two culinary worlds collide in a small French village.
+War Horse               2011     Drama      A boy bonds with his horse, separated during World War I.
+Mudbound               2017     Drama      Two families navigate race, war, and hardship in rural Mississippi.
+Maudie                 2016     Biography   The life of artist Maud Lewis, who overcame physical challenges.
+The Boy in the Striped Pajamas 2008 Drama  The friendship between a Nazi officer's son and a Jewish prisoner.
+The Pursuit of Happyness 2006    Drama      A man overcomes homelessness to create a better life for his son.
+Room                   2015     Drama      A mother and her son rebuild their lives after escaping captivity.
+The Help               2011     Drama      African-American maids share stories about their lives in the South.
+Wild                   2014     Biography   A woman hikes to rediscover herself after a personal tragedy.
+Lion                   2016     Biography   A man uses Google Earth to find his birth family in India.
+The Way Back           2020     Drama       A former basketball star confronts his demons while coaching a high school team.
+The Farewell           2019     Drama       A family keeps a terminal diagnosis secret from their grandmother.
+Burnt                  2015     Drama       A chef rebuilds his career after hitting rock bottom.
+Captain Fantastic      2016     Drama       A father raises his kids off the grid, challenging societal norms.
+Gifted                 2017     Drama       A man fights for custody of his mathematically gifted niece.
+The Glass Castle       2017     Biography   A journalist reflects on her unconventional and troubled childhood.
+Brooklyn               2015     Romance     An Irish immigrant finds love and independence in 1950s New York.
+Suffragette            2015     Drama       Women fight for the right to vote in early 20th-century England.
+Joy                    2015     Biography   The inspiring journey of an inventor who builds a business empire.
+The Zookeeper’s Wife   2017     Biography   A couple hides Jews during Nazi occupation using their zoo.
+Doubt                  2008     Drama       A nun questions a priest's relationship with a young student.
+The Reader             2008     Drama       A teenager's affair with an older woman is revisited years later in a courtroom.
+The Station Agent      2003     Comedy      A reclusive dwarf forms unexpected friendships in a small town.
+Lars and the Real Girl 2007     Comedy      A socially awkward man finds love in an unconventional way.
+The Constant Gardener  2005     Thriller    A diplomat investigates his wife's murder in Africa.
+127 Hours             2010     Biography   A hiker trapped under a boulder fights to survive.
+Blue Jasmine          2013     Drama       A former socialite struggles to adjust after losing her wealth.
+The Florida Project   2017     Drama       A child navigates life in a budget motel near Disney World.
+Three Billboards Outside Ebbing, Missouri 2017 Drama A mother challenges police after her daughter's murder remains unsolved.
+Manchester by the Sea 2016     Drama       A man takes responsibility for his nephew after a family tragedy.
+The Big Sick          2017     Comedy      A couple faces cultural differences and a health crisis together.
+The King's Speech        2010     Biography  King George VI overcomes his stammer with the help of a speech therapist.
+Life of Pi               2012     Adventure  A boy survives a shipwreck and bonds with a tiger on a lifeboat.
+The Imitation Game       2014     Biography  Alan Turing cracks the Nazi Enigma code during World War II.
+Amélie                   2001     Romance    A quirky Parisian woman improves the lives of those around her.
+A Separation             2011     Drama      A couple navigates a divorce while dealing with family and moral dilemmas.
+Schindler’s List         1993     Biography  A German businessman saves Jews during the Holocaust.
+The Pianist              2002     Biography  A Polish pianist survives the Warsaw Ghetto during World War II.
+The Green Mile           1999     Drama      A death row guard encounters a prisoner with a miraculous gift.
+Dead Man Walking         1995     Drama      A nun becomes a spiritual advisor to a death row inmate.
+Midnight in Paris        2011     Fantasy    A writer finds himself transported to the 1920s each night in Paris.
+The Artist               2011     Drama      A silent film star struggles with the arrival of talking pictures.
+The Great Gatsby         2013     Drama      A mysterious millionaire throws parties to win back the love of his life.
+American Beauty          1999     Drama      A suburban father undergoes a midlife crisis and changes his life.
+Slumdog Millionaire      2008     Drama      A boy from the slums reflects on his life while on a game show.
+The Truman Show          1998     Drama      A man discovers his entire life has been a TV show.
+Eternal Sunshine of the Spotless Mind 2004 Romance A couple erases memories of their relationship but reconnect unexpectedly.
+The Diving Bell and the Butterfly 2007 Biography A man writes a book using only eye blinks after a stroke leaves him paralyzed.
+The Pursuit of Happyness 2006     Biography  A father overcomes homelessness to create a better life for his son.
+Hotel Rwanda             2004     Biography  A hotel manager saves lives during the Rwandan genocide.
+Catch Me If You Can      2002     Biography  A con artist eludes the FBI while committing fraud across the globe.
+The Blind Side           2009     Biography  A homeless teenager becomes a football star with the help of a loving family.
+The Help                 2011     Drama      African-American maids share their stories during the Civil Rights Movement.
+The Intouchables         2011     Biography  A paralyzed man forms a bond with his unconventional caregiver.
+Gandhi                   1982     Biography  The life and leadership of Mahatma Gandhi in the fight for independence.
+Sully                    2016     Biography  The true story of Captain Chesley "Sully" Sullenberger's emergency landing on the Hudson River.
+The Big Short            2015     Biography  Investors profit from the 2008 financial crisis by predicting the market crash.
+Frost/Nixon              2008     Biography  The story behind the famous interviews between David Frost and Richard Nixon.
+Lion                     2016     Biography  A man searches for his birth family using Google Earth after being lost as a child.
+Hacksaw Ridge            2016     Biography  A WWII medic refuses to carry a weapon and saves lives on the battlefield.
+Hidden Figures           2016     Biography  African-American women mathematicians help NASA during the space race.
+The Zookeeper's Wife     2017     Biography  A couple hides Jews during Nazi occupation by using their zoo.
+Joy                      2015     Biography  A single mother invents a mop and builds a business empire.
+Steve Jobs               2015     Biography  The story of the visionary co-founder of Apple.
+The Theory of Everything 2014     Biography  The story of physicist Stephen Hawking's life and achievements.
+The Danish Girl          2015     Biography  The life of transgender pioneer Lili Elbe and her journey of self-discovery.
+Rocketman                2019     Biography  A musical biography of Elton John and his rise to fame.
+Bohemian Rhapsody        2018     Biography  The story of Freddie Mercury and Queen's legendary career.
+The Post                 2017     Biography  Journalists risk their careers to publish the Pentagon Papers.
+Spotlight                2015     Biography  Journalists uncover a massive child abuse scandal in the Catholic Church.
+The Two Popes            2019     Biography  The relationship between Pope Benedict XVI and Pope Francis.
+A Beautiful Mind         2001     Biography  The story of mathematician John Nash and his battle with schizophrenia.
+My Left Foot             1989     Biography  The story of Christy Brown, an artist and writer with cerebral palsy.
+Ray                      2004     Biography  The life of musician Ray Charles and his struggles and triumphs.
+Unbroken                 2014     Biography  The incredible story of a WWII soldier's survival and resilience.
+127 Hours               2010     Biography   A climber trapped by a boulder fights to survive against all odds.
+The Social Network      2010     Biography   The creation of Facebook and its legal and personal repercussions.
+Selma                   2014     Biography   Dr. Martin Luther King Jr.'s historic march for voting rights.
+Becoming Jane           2007     Biography   A fictionalized account of Jane Austen's early life and romance.
+Malcolm X               1992     Biography   The life of activist and civil rights leader Malcolm X.
+The Last King of Scotland 2006   Biography   A doctor becomes entangled with Ugandan dictator Idi Amin.
+Milk                    2008     Biography   The story of Harvey Milk, the first openly gay elected official in California.
+Rudy                    1993     Biography   A determined young man overcomes the odds to play college football.
+The Diving Bell and the Butterfly 2007 Biography A paralyzed man communicates through eye blinks to write his memoir.
+Room                   2015     Drama      A mother and son adjust to life after escaping years of captivity.
+Bridge of Spies        2015     Thriller   A lawyer negotiates a prisoner exchange during the Cold War.
+The Florida Project    2017     Drama      A young girl navigates life while living in a budget motel near Disney.
+Captain Fantastic      2016     Drama      A father raises his children off the grid, challenging societal norms.
+The Descendants        2011     Drama      A man reconnects with his daughters after his wife falls into a coma.
+The Lovely Bones       2009     Drama      A girl watches over her family from the afterlife after being murdered.
+Brooklyn               2015     Romance    An Irish immigrant finds love and independence in 1950s New York.
+Big Fish               2003     Drama      A son learns about his father's fantastical life stories.
+We Bought a Zoo        2011     Comedy     A family renovates a zoo while finding new purpose.
+Midnight in Paris      2011     Fantasy    A writer finds inspiration in nightly time travels to the 1920s.
+The Pursuit of Happyness 2006 Biography   A man overcomes homelessness to create a better future for his son.
+The Book Thief           2013     Drama      A young girl discovers the power of books during Nazi Germany.
+The Best Exotic Marigold Hotel 2011 Comedy  British retirees find adventure and love at a run-down Indian hotel.
+Wild                     2014     Biography  A woman hikes the Pacific Crest Trail to heal from personal loss.
+The Hundred-Foot Journey 2014     Drama      Culinary worlds collide when a family opens a restaurant in France.
+The Peanut Butter Falcon 2019     Adventure  A young man with Down syndrome follows his dream of becoming a wrestler.
+Julie & Julia            2009     Biography  A woman finds inspiration cooking her way through Julia Child's recipes.
+Into the Wild            2007     Biography  A young man abandons society to live in the Alaskan wilderness.
+A Monster Calls          2016     Fantasy    A boy befriends a monster to cope with his mother’s illness.
+Gifted                   2017     Drama      A man fights for custody of his mathematically talented niece.
+The Farewell             2019     Drama      A family hides a terminal diagnosis from their beloved grandmother.
+Brooklyn                 2015     Romance    An Irish immigrant finds love and independence in 1950s New York.
+Lion                     2016     Biography  A man searches for his birth family using Google Earth.
+Captain Fantastic        2016     Drama      A father raises his children off the grid, challenging societal norms.
+Maudie                   2016     Biography  The life of Maud Lewis, a folk artist overcoming physical challenges.
+Still Alice              2014     Drama      A linguistics professor struggles with early-onset Alzheimer’s disease.
+The Danish Girl          2015     Biography  The story of transgender pioneer Lili Elbe.
+The Glass Castle         2017     Biography  A woman reflects on her unconventional, tumultuous upbringing.
+The Constant Gardener    2005     Thriller   A man investigates his wife’s murder in Kenya.
+Lars and the Real Girl   2007     Comedy     A socially awkward man forms an unlikely connection with a doll.
+The Secret Life of Bees  2008     Drama      A young girl and her caregiver find solace on a beekeeping farm.
+Dead Poets Society       1989     Drama      An English teacher inspires his students to embrace creativity.
+Big Fish                 2003     Drama      A son learns about his father’s larger-than-life stories.
+The Florida Project      2017     Drama      A young girl explores life while living in a budget motel.
+Blue Jasmine             2013     Drama      A socialite falls from grace and struggles to start over.
+A Beautiful Day in the Neighborhood 2019 Biography A journalist forms a bond with Mr. Rogers while writing a profile.
+Remember the Titans      2000     Biography  A football coach unites a racially divided team.
+The Help                 2011     Drama      African-American maids share their stories during the Civil Rights Movement.
+The Pursuit of Happyness 2006     Biography  A man overcomes homelessness to create a future for his son.
+Slumdog Millionaire      2008     Drama      A boy reflects on his life while competing on a game show.
+Erin Brockovich          2000     Biography  A legal assistant exposes a water contamination scandal.
+Catch Me If You Can      2002     Biography  A con artist eludes the FBI across the globe.
+The Zookeeper’s Wife     2017     Biography  A couple hides Jews in their zoo during the Nazi occupation.
+The Way Back             2020     Drama      A former basketball star battles addiction while coaching a high school team.
+Burnt                   2015     Drama      A chef rebuilds his career after a personal and professional fall.
+The Descendants         2011     Drama      A man reconnects with his daughters after a family tragedy.
+Wild Rose               2018     Drama      A single mother pursues her dream of becoming a country music star.
+The Big Sick            2017     Comedy     A couple navigates cultural differences and a health crisis.
+The Hundred-Foot Journey 2014     Comedy     Two culinary worlds collide in a small French village.
+The Best of Enemies     2019     Biography   A civil rights activist and a segregationist form an unlikely bond.
+The Two Popes           2019     Biography   A story about the friendship between Pope Benedict and Pope Francis.
+Steve Jobs              2015     Biography   The life of the visionary co-founder of Apple Inc.
+Rocketman               2019     Biography   A musical portrayal of Elton John’s rise to fame.
+Bohemian Rhapsody       2018     Biography   The story of Freddie Mercury and Queen.
+The Theory of Everything 2014    Biography   The life of physicist Stephen Hawking and his relationship with his wife.
+A Beautiful Mind        2001     Biography   Mathematician John Nash battles schizophrenia and achieves greatness.
+Hidden Figures          2016     Biography   African-American women mathematicians help NASA’s space missions.
+Sully                   2016     Biography   The miraculous emergency landing of a plane on the Hudson River.
+The Social Network      2010     Biography   The story behind Facebook's creation and its founder’s legal battles.
+127 Hours              2010     Biography   A climber fights to survive after being trapped under a boulder.
+The Last King of Scotland 2006   Biography   A doctor becomes entangled with Ugandan dictator Idi Amin.
+Malcolm X              1992     Biography   The life and legacy of civil rights leader Malcolm X.
+Rudy                   1993     Biography   A young man pursues his dream of playing college football.
+Gandhi                 1982     Biography   The life and leadership of Mahatma Gandhi in the fight for independence.
+The Diving Bell and the Butterfly 2007 Biography A paralyzed man writes his memoir by blinking.
+Ray                    2004     Biography   The life and struggles of musician Ray Charles.
+Milk                   2008     Biography   The story of gay rights activist Harvey Milk.
+Room                   2015     Drama      A mother and her son rebuild their lives after escaping captivity.
+The Lovely Bones       2009     Drama      A young girl watches over her family from the afterlife.
+The King's Speech        2010     Biography  King George VI overcomes his stammer with the help of a speech therapist.
+The Imitation Game       2014     Biography  Alan Turing cracks the Nazi Enigma code during World War II.
+Life of Pi               2012     Adventure  A young man survives a shipwreck with a tiger on a lifeboat.
+The Pursuit of Happyness 2006     Biography  A man overcomes homelessness to create a better life for his son.
+Slumdog Millionaire      2008     Drama      A boy from the slums reflects on his life while on a game show.
+The Green Mile           1999     Drama      A death row officer encounters a prisoner with supernatural abilities.
+Dead Poets Society       1989     Drama      An English teacher inspires students to think for themselves.
+The Truman Show          1998     Drama      A man discovers his entire life has been a television show.
+A Beautiful Mind         2001     Biography  Mathematician John Nash battles schizophrenia and achieves greatness.
+Schindler's List         1993     Biography  A German industrialist saves Jews during the Holocaust.
+The Pianist              2002     Biography  A Jewish musician struggles to survive during the Nazi occupation.
+Amélie                   2001     Romance    A whimsical Parisian woman transforms the lives of those around her.
+Eternal Sunshine of the Spotless Mind 2004 Romance A couple erases their memories of each other but reconnect.
+Revolutionary Road       2008     Drama      A suburban couple struggles with societal expectations.
+The Help                 2011     Drama      African-American maids share their stories during the Civil Rights Movement.
+The Lovely Bones         2009     Drama      A murdered girl watches over her family from the afterlife.
+Into the Wild            2007     Biography  A man abandons his possessions to live in the Alaskan wilderness.
+Julie & Julia            2009     Biography  A woman cooks her way through Julia Child's recipes.
+Hotel Rwanda             2004     Biography  A hotel manager saves lives during the Rwandan genocide.
+Catch Me If You Can      2002     Biography  A charming con artist eludes the FBI while committing fraud.
+Erin Brockovich          2000     Biography  A legal assistant uncovers a water contamination scandal.
+Lion                     2016     Biography  A man searches for his birth family using Google Earth.
+The Farewell             2019     Drama      A family keeps a terminal diagnosis secret from their grandmother.
+Captain Fantastic        2016     Drama      A father raises his children off the grid while facing societal expectations.
+Maudie                   2016     Biography  The story of Maud Lewis, a famous Canadian folk artist.
+Room                     2015     Drama      A mother and her son adjust to life after escaping captivity.
+Still Alice              2014     Drama      A linguistics professor struggles with early-onset Alzheimer's disease.
+Brooklyn                 2015     Romance    An Irish immigrant navigates love and homesickness in 1950s New York.
+The Florida Project      2017     Drama      A young girl explores life in a budget motel near Disney World.
+Big Fish                 2003     Drama      A son learns the truth behind his father’s fantastical stories.
+The Secret Life of Bees  2008     Drama      A young girl and her caregiver seek refuge on a beekeeping farm.
+The Best Exotic Marigold Hotel 2011 Comedy  British retirees discover adventure at a hotel in India.
+The Hundred-Foot Journey 2014     Comedy     Culinary traditions collide when a family opens a restaurant in France.
+Burnt                   2015     Drama      A chef rebuilds his career after hitting rock bottom.
+The Intouchables         2011     Biography  A paralyzed man forms a friendship with his lively caregiver.
+Hacksaw Ridge            2016     Biography  A pacifist WWII medic saves lives without carrying a weapon.
+The Theory of Everything 2014     Biography  The story of Stephen Hawking and his groundbreaking work in physics.
+The Zookeeper's Wife     2017     Biography  A couple hides Jews in their zoo during the Nazi occupation.
+Rocketman               2019     Biography   A musical portrayal of Elton John’s rise to fame.
+Bohemian Rhapsody        2018     Biography  The story of Freddie Mercury and the band Queen.
+Frost/Nixon              2008     Biography  The story behind the famous interviews between Nixon and Frost.
+Spotlight                2015     Biography  Journalists uncover a massive child abuse scandal in the Catholic Church.
+Sully                    2016     Biography  The true story of a miraculous emergency landing on the Hudson River.
+Hidden Figures           2016     Biography  African-American women mathematicians play a critical role in NASA’s space race.
+Steve Jobs               2015     Biography  A behind-the-scenes look at the life of Apple's co-founder.
+127 Hours               2010     Biography   A climber survives after being trapped under a boulder.
+Unbroken                2014     Biography   A WWII soldier endures extreme hardships as a prisoner of war.
+The Social Network      2010     Biography   The story behind the creation of Facebook and its legal battles.
+Malcolm X               1992     Biography   The life and legacy of the civil rights leader.
+Milk                    2008     Biography   The story of Harvey Milk, the first openly gay elected official in California.
+The Two Popes           2019     Biography   A fictionalized relationship between Pope Benedict XVI and Pope Francis.
+The Last King of Scotland 2006   Biography   A doctor becomes entangled with Ugandan dictator Idi Amin.
+Gandhi                  1982     Biography   The life of Mahatma Gandhi, a leader of non-violent resistance.
+Ray                     2004     Biography   The life and struggles of musician Ray Charles.
+Lars and the Real Girl  2007     Comedy      A socially awkward man forms a connection with a life-sized doll.
+The Peanut Butter Falcon 2019    Adventure  A young man with Down syndrome follows his dream of becoming a wrestler.
+Gifted                  2017     Drama      A man raises his mathematically talented niece while fighting for custody.
+The Diving Bell and the Butterfly 2007 Biography A paralyzed man writes his memoir by blinking.
+We Bought a Zoo         2011     Comedy     A family restores a run-down zoo while discovering themselves.
+The Glass Castle        2017     Biography   A woman reflects on her unconventional and troubled upbringing.
+Atonement               2007     Romance    A lie tears a young couple apart during World War II.
+The Book Thief           2013     Drama      A young girl discovers the power of words during Nazi Germany.
+The Best Exotic Marigold Hotel 2011 Comedy  British retirees find purpose and joy at a run-down Indian hotel.
+Wild                     2014     Biography  A woman hikes the Pacific Crest Trail to overcome personal loss.
+The Hundred-Foot Journey 2014     Drama      A clash of cultures unfolds in a small French town through food.
+The Way Way Back         2013     Comedy     A shy teen finds confidence during a summer vacation.
+The Descendants          2011     Drama      A father reconnects with his daughters after a family tragedy.
+Julie & Julia            2009     Biography  A woman embarks on a cooking journey inspired by Julia Child.
+Into the Wild            2007     Biography  A man abandons material possessions to live in the Alaskan wilderness.
+A Monster Calls          2016     Fantasy    A boy befriends a tree monster to cope with his mother’s illness.
+Big Fish                 2003     Drama      A son learns the truth behind his father's fantastical stories.
+The Pursuit of Happyness 2006     Biography  A man overcomes homelessness while raising his son.
+Slumdog Millionaire      2008     Drama      A boy reflects on his life while competing on a game show.
+The Help                 2011     Drama      African-American maids share their stories during the Civil Rights Movement.
+The Intouchables         2011     Biography  A paralyzed man bonds with his lively caregiver.
+Brooklyn                 2015     Romance    An Irish immigrant navigates love and homesickness in 1950s New York.
+Still Alice              2014     Drama      A linguistics professor grapples with early-onset Alzheimer’s disease.
+Captain Fantastic        2016     Drama      A father raises his children off the grid while facing societal expectations.
+Lion                     2016     Biography  A man searches for his birth family using Google Earth.
+Room                     2015     Drama      A mother and her son adjust to life after escaping captivity.
+Burnt                   2015     Drama      A chef rebuilds his career and self-worth after personal struggles.
+The Florida Project      2017     Drama      A young girl explores life in a budget motel near Disney World.
+The Farewell             2019     Drama      A family hides a terminal diagnosis from their beloved matriarch.
+Maudie                   2016     Biography  The story of Maud Lewis, a beloved Canadian folk artist.
+Julie & Julia            2009     Biography  A woman finds joy cooking through Julia Child’s recipes.
+The Peanut Butter Falcon 2019     Adventure  A man with Down syndrome embarks on a journey to become a wrestler.
+Gifted                  2017     Drama      A man fights for custody of his mathematically gifted niece.
+The Secret Life of Bees  2008     Drama      A young girl discovers a beekeeping sanctuary.
+The Lovely Bones         2009     Drama      A girl watches over her family from the afterlife.
+Eighth Grade            2018     Comedy     A shy middle schooler navigates the complexities of adolescence.
+The Glass Castle        2017     Biography   A woman reflects on her unconventional and troubled upbringing.
+The Way Back            2020     Drama      A former basketball star grapples with addiction while coaching a team.
+The Two Popes           2019     Biography   A fictionalized story of the relationship between Pope Benedict XVI and Pope Francis.
+The Danish Girl         2015     Biography   The story of transgender pioneer Lili Elbe.
+Rocketman               2019     Biography   A vibrant portrayal of Elton John’s rise to fame.
+Bohemian Rhapsody       2018     Biography   The story of Freddie Mercury and the band Queen.
+The Theory of Everything 2014    Biography   The life of physicist Stephen Hawking and his groundbreaking work.
+Hidden Figures          2016     Biography   African-American women mathematicians help launch NASA into the space race.
+Steve Jobs              2015     Biography   A behind-the-scenes look at Apple’s visionary co-founder.
+127 Hours              2010     Biography   A mountaineer survives after being trapped under a boulder.
+Unbroken               2014     Biography   A WWII soldier endures extreme hardships as a prisoner of war.
+The Social Network      2010     Biography   The story behind Facebook's creation and its legal battles.
+Gandhi                 1982     Biography   The life of Mahatma Gandhi and his leadership in India's independence movement.
+The Last King of Scotland 2006   Biography   A doctor becomes entangled with Ugandan dictator Idi Amin.
+Malcolm X              1992     Biography   The story of the civil rights leader's life and legacy.
+Ray                    2004     Biography   The life and struggles of musician Ray Charles.
+Milk                   2008     Biography   The story of Harvey Milk, California's first openly gay elected official.
+Sully                  2016     Biography   The story of Captain Chesley "Sully" Sullenberger’s miraculous emergency landing.
+The Zookeeper’s Wife   2017     Biography   A couple saves Jews during WWII by hiding them in their zoo.
+Hacksaw Ridge          2016     Biography   A WWII medic saves lives without firing a single shot.
+Frost/Nixon            2008     Biography   The story behind the famous interviews between Nixon and Frost.
+Spotlight              2015     Biography   Journalists uncover a child abuse scandal within the Catholic Church.
+The King’s Speech      2010     Biography   King George VI overcomes his stammer with the help of a speech therapist.
+The Imitation Game     2014     Biography   Alan Turing deciphers the Enigma code during World War II.
+Life of Pi             2012     Adventure   A boy survives a shipwreck with a tiger as his companion.
+The Pursuit of Happyness 2006 Biography    A father fights to create a better life for his son while homeless.
+Julie & Julia          2009     Biography   A woman cooks her way through Julia Child’s recipes to rediscover herself.
+Rocketman              2019     Biography   A musical look at Elton John's life and career.
+Big Fish               2003     Drama      A son learns the truth behind his father’s fantastical tales.
+The Lovely Bones       2009     Drama      A murdered girl observes her family from the afterlife.
+The Help               2011     Drama      African-American maids share their stories during the Civil Rights Movement.
+Into the Wild          2007     Biography  A young man leaves everything to live in the Alaskan wilderness.
+Room                   2015     Drama      A mother and her son rebuild their lives after years in captivity.
+Still Alice            2014     Drama      A linguistics professor faces early-onset Alzheimer’s disease.
+Burnt                 2015     Drama      A chef seeks redemption in his career and life.
+The Glass Castle       2017     Biography   A woman reflects on her unconventional upbringing with her family.
+Whale Rider             2002     Drama      A young girl challenges tradition to become the leader of her tribe.
+The Lives of Others     2006     Thriller   An East German officer spies on a couple and becomes entangled in their lives.
+The Terminal            2004     Comedy     A man lives in an airport terminal after being stranded by political issues.
+Seabiscuit              2003     Biography  The story of a racehorse that became a symbol of hope during the Great Depression.
+My Big Fat Greek Wedding 2002    Comedy     A woman from a Greek family falls in love with a non-Greek man.
+The Illusionist         2006     Mystery    A magician uses his skills to win back the love of his life.
+Snowpiercer             2013     Sci-Fi     Survivors of a frozen Earth live aboard a perpetually moving train.
+Black Book              2006     War        A Jewish woman joins the Dutch resistance during WWII.
+The Boy Who Harnessed the Wind 2019 Biography A boy builds a windmill to save his village from famine.
+The Founder             2016     Biography  The story of Ray Kroc and the creation of the McDonald’s empire.
+The Kite Runner         2007     Drama      A man confronts his past in war-torn Afghanistan.
+A Hidden Life           2019     Biography  An Austrian farmer refuses to support the Nazis during WWII.
+Mud                     2012     Drama      Two boys help a fugitive reunite with his lost love.
+A United Kingdom        2016     Biography  The interracial marriage of an African king sparks international outrage.
+One Day                 2011     Romance    Two people share the same day over two decades as their lives evolve.
+Another Earth           2011     Sci-Fi     A woman seeks redemption after causing a tragic accident on the eve of discovering a parallel Earth.
+Paterson               2016      Drama      A bus driver in Paterson, NJ, writes poetry while observing daily life.
+Beasts of the Southern Wild 2012 Drama     A young girl faces personal loss in a remote Louisiana community.
+Shine                  1996      Biography  The story of pianist David Helfgott and his struggles with mental illness.
+Loving                 2016      Biography  An interracial couple fights for the right to marry in 1950s America.
+Rabbit-Proof Fence     2002      Drama      Three Aboriginal girls escape from a government camp and trek home.
+Waking Ned Devine      1998      Comedy     A small Irish village conspires to claim a lottery ticket.
+Shattered Glass        2003      Biography  The rise and fall of a journalist who fabricated stories.
+The Soloist            2009      Biography  A journalist befriends a homeless, musically gifted man.
+Kiss the Ground        2020      Documentary The role of regenerative agriculture in combating climate change.
+Conviction             2010      Biography  A woman studies law to prove her brother's innocence.
+The Invisible Woman    2013      Biography  The story of Charles Dickens’ secret love affair with a younger woman.
+The Guernsey Literary and Potato Peel Pie Society 2018 Drama A writer bonds with residents of a remote island after WWII.
+The King               2019      Biography  A young Henry V must navigate war and politics after inheriting the throne.
+A Street Cat Named Bob 2016      Biography  A man battling addiction finds purpose through his friendship with a stray cat.
+The Leisure Seeker     2017      Drama      An aging couple takes a road trip in their old RV to reclaim their independence.
+Adrift                 2018      Adventure  A woman must navigate a damaged sailboat after a hurricane.
+Frida                  2002      Biography  The life of painter Frida Kahlo and her struggles with love and health.
+Battle of the Sexes    2017      Biography  The famous tennis match between Billie Jean King and Bobby Riggs.
+The Light Between Oceans 2016    Drama      A lighthouse keeper and his wife raise a baby they rescue from a boat.
+Begin Again            2013      Drama      A chance encounter between a disgraced music executive and a singer changes their lives.
+Remember Me            2010      Romance    A troubled young man finds love but faces a tragic twist.
+Bright Star            2009      Biography  The love story of poet John Keats and Fanny Brawne.
+Far From the Madding Crowd 2015 Romance    A headstrong woman navigates suitors and independence in Victorian England.
+Mona Lisa Smile        2003      Drama      A professor challenges gender norms at a conservative women's college.
+The Painted Veil       2006      Romance    A couple’s relationship grows during a cholera epidemic in 1920s China.
+Creation               2009      Biography  Charles Darwin struggles with faith and science while writing "On the Origin of Species."
+Me and Earl and the Dying Girl 2015 Comedy  A teenager befriends a classmate with cancer.
+Sing Street            2016      Comedy     A boy starts a band to win the heart of a girl in 1980s Dublin.
+The Edge of Seventeen  2016      Comedy     A high school girl navigates the challenges of adolescence and family.
+Marley & Me            2008      Comedy     A family learns life lessons through the antics of their lovable dog.
+The Boy in the Striped Pajamas 2008 Drama  A friendship forms between a Nazi officer's son and a concentration camp inmate.
+The Railway Man        2013      Biography  A former POW confronts the man who tortured him during WWII.
+Denial                 2016      Biography  A historian defends the truth of the Holocaust in a libel trial.
+Woman in Gold          2015      Biography  A woman fights to reclaim her family's art stolen by the Nazis.
+The Debt               2010      Thriller   Israeli agents confront secrets from a past mission.
+Song for Marion        2012      Drama      An elderly man joins a choir to honor his late wife.
+Boyhood                2014      Drama      A boy grows up over 12 years in this groundbreaking film project.
+Nebraska               2013      Drama      A father and son take a road trip to claim a supposed prize.
