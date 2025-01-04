@@ -1,13 +1,9 @@
-# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
-# More GitHub Actions for Azure: https://github.com/Azure/actions
-# More info on Python, GitHub Actions, and Azure App Service: https://aka.ms/python-webapps-actions
-
 name: Build and deploy Python app to Azure Web App - MovieChatbot
 
 on:
   push:
     branches:
-      - master
+      - main  # Change this to 'main' if your main branch is named 'main'
   workflow_dispatch:
 
 jobs:
@@ -61,18 +57,16 @@ jobs:
       - name: Unzip artifact for deployment
         run: unzip release.zip
 
-      
       - name: Login to Azure
         uses: azure/login@v2
         with:
-          client-id: ${{ secrets.__clientidsecretname__ }}
-          tenant-id: ${{ secrets.__tenantidsecretname__ }}
-          subscription-id: ${{ secrets.__subscriptionidsecretname__ }}
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}  # Ensure this secret is set
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}  # Ensure this secret is set
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}  # Ensure this secret is set
 
       - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v3
         id: deploy-to-webapp
         with:
-          app-name: 'MovieChatbot'
-          slot-name: 'Production'
-          
+          app-name: 'MovieChatbot'  # Ensure this matches your Azure App name
+          slot-name: 'Production'  # Optional: Use a staging slot if required
