@@ -1,1 +1,1 @@
-
+This project is about creating a Movie Chatbot that reads a movie dataset from a text file that includes thousands of movies, and the backend is connected to an html using flask which opens a local host with the chatbot you just have to type movie name and it will show you the release date and overview about the movie.
